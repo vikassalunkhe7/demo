@@ -1,168 +1,103 @@
 {
-    "type": "FeatureCollection",
-    "features": [{
-            "type": "Feature",
-            "properties": {
-                title: 'City',
-                description: 'Ozark'
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-85.623763, 31.3940969]
-            },
-
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                title: 'City',
-                description: 'Ewell.'
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-85.57449958559586, 31.42140777515379]
-            }
-        },
-
-        {
-            "type": "Feature",
-            "properties": {
-                title: 'City',
-                description: 'Washington, D.C.'
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-85.64009268478546, 31.461166413234373]
-            }
-        },
-        // {
-        //     "type": "Feature",
-        //     "properties": {},
-        //     "geometry": {
-        //         "type": "Point",
-        //         "coordinates": [-121.3013595, 40.4309956]
-        //     }
-        // },
-        // {
-        //     "type": "Feature",
-        //     "properties": {},
-        //     "geometry": {
-        //         "type": "Point",
-        //         "coordinates": [-121.266636, 40.4421073]
-        //     }
-        // },
-        {
-            "type": "Feature",
-            "properties": {
-                title: 'Mapbox',
-                description: 'Hooper'
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-85.65470214416453, 31.42253493584888]
-            }
-        },
-
-        {
-            "type": "Feature",
-            "properties": {
-                title: 'City',
-                description: 'SilverWings'
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-85.69300637996731, 31.353433900786186]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                title: 'City',
-                description: 'WaterFord Road'
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-85.59324788818569, 31.332333427941535]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                title: 'City',
-                description: 'Harry Walker Road'
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-85.61669483674036, 31.39898468055791]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "type": "Point",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "type": "Point",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "type": "Point",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "type": "Point",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "type": "Point",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "type": "Point",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "type": "Point",
-                "coordinates": []
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "type": "Point",
-                "coordinates": []
-            }
-        },
-
-
-
-
-    ]
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "title":"City",
+            "description":"Ozark"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -85.623763,
+               31.3940969
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "title":"City",
+            "description":"Ewell."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -85.57449958559586,
+               31.42140777515379
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "title":"City",
+            "description":"Washington, D.C."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -85.64009268478546,
+               31.461166413234373
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "title":"Mapbox",
+            "description":"Hooper"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -85.65470214416453,
+               31.42253493584888
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "title":"City",
+            "description":"SilverWings"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -85.69300637996731,
+               31.353433900786186
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "title":"City",
+            "description":"WaterFord Road"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -85.59324788818569,
+               31.332333427941535
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "title":"City",
+            "description":"Harry Walker Road"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -85.61669483674036,
+               31.39898468055791
+            ]
+         }
+      }
+   ]
 }

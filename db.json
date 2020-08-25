@@ -1,14 +1,168 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+var mydata2 = {
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                title: 'City',
+                description: 'New Brockton, AL, United States of America'
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-85.9293861,31.3857239]
+            },
+
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                title: 'City',
+                description: 'Elba, AL, United States of America'
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-85.8591057,31.3476699]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                title: 'City',
+                description: 'Washington, D.C.'
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-85.9741083,31.312392]
+            }
+        },
+        // {
+        //     "type": "Feature",
+        //     "properties": {},
+        //     "geometry": {
+        //         "type": "Point",
+        //         "coordinates": [-121.3013595, 40.4309956]
+        //     }
+        // },
+        // {
+        //     "type": "Feature",
+        //     "properties": {},
+        //     "geometry": {
+        //         "type": "Point",
+        //         "coordinates": [-121.266636, 40.4421073]
+        //     }
+        // },
+        {
+            "type": "Feature",
+            "properties": {
+                title: 'Mapbox',
+                description: 'Enterprise, AL, United States of America'
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-85.8552161,31.3151708]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                title: 'City',
+                description: 'Martin Heights, AL 36330-1915, United States of America'
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-85.8471608,31.3423924]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                title: 'City',
+                description: 'Dobbs Subdivision'
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-85.8702165,31.3140596]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                title: 'City',
+                description: 'Harry Walker Road'
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-85.8360493,31.3376704]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+
+
+
+
+    ]
 }
